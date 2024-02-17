@@ -11,3 +11,6 @@ type = custom/script
 exec = ~/wakatime-polybar/main
 interval = 60
 ```
+![image](https://github.com/nekotensai/wakatime-polybar/assets/49762125/dad135ed-abda-4010-953d-50a6e80a4e01)
+
+
