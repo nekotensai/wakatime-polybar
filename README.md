@@ -1,5 +1,5 @@
 # wakatime-polybar
-Small go project to fetch time from Wakatime to track from polybar.
+Small go project to fetch time from Wakatime to track into polybar.
 ## Install
 - Compile main.go
 - Insert Wakatime API-key into config.json
